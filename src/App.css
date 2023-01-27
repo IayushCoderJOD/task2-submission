@@ -1,0 +1,67 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background: linear-gradient( #b2c4a1, #ffa9a9);
+}
+
+img {
+  width: 100%;
+  height: auto;
+  display: block;
+  margin: 0 auto;
+}
+.pic1{
+  background-image: url(C:\Users\91952\Desktop\video_task\app\src\pics\gif1.png);
+  object-fit: cover;
+}
+
+.container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+h1, h2, h3 {
+  font-weight: 600;
+  margin-top: 20px;
+}
+
+p {
+  line-height: 1.6;
+  margin-top: 10px;
+}
+
+
+.gif-button {
+    border-radius: 32px;
+    background-color: rgb(0, 20, 0); /* green background */
+    color: rgb(255, 255, 255); /* white text color */
+    padding: 12px 20px; /* add some padding to the button */
+    border: 5px solid rgb(255, 57, 255); /* add 5px purple border */
+    cursor: pointer; /* change cursor to pointer on hover */
+    font-size: 20px; /* increase font size */
+    margin: 10px; /* add some margin between the buttons */
+    width: 200px; /* increase width of buttons */
+    display: block; /* display the buttons as block elements */
+    text-align: center; /* center the text inside the button */
+    margin-left: auto; /* center the buttons horizontally */
+    margin-right: auto; /* center the buttons horizontally */
+  }
+
+
+  form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  form input,
+  form textarea {
+    margin: 10px 0;
+    padding: 10px;
+    border-radius: 5px;
+    border: 1px solid gray;
+    font-size: 18px;
+  }
+  
