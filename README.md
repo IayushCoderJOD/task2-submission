@@ -1,3 +1,13 @@
+
+#Live Link :- ayush-task2.netlify.app
+
+#Sneak Peak Of code 
+![image](https://user-images.githubusercontent.com/86391985/215083409-a12e5de4-dc0e-4341-a755-c0b49adb4826.png)
+
+simple page view
+![image](https://user-images.githubusercontent.com/86391985/215083585-4795202a-e30e-474e-ab89-05f164cc12af.png)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -59,6 +69,9 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/m
 
 ### Advanced Configuration
 
+
+
+
 This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
 
 ### Deployment
@@ -68,3 +81,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
